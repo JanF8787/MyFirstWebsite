@@ -1,0 +1,109 @@
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+header {
+  position: relative;
+}
+
+img {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.h31 {
+  font-family: 'Abril Fatface';
+  font-size: 40px;
+  position: absolute;
+  bottom: 70px;
+  left: 300px;
+}
+
+.h11 {
+  font-family: 'Abril Fatface';
+  font-size: 60px;
+  position: absolute;
+  bottom: 1px;
+  left: 300px;
+}
+
+.first {
+  width: 590px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Josefin Sans';
+}
+
+.first-box {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'Abril Fatface';
+  color: white;
+}
+
+.grey1 {
+  height: 120px;
+  background: grey;
+}
+
+.h12 {
+  padding-top: 30px;
+  font-size: 38px;
+}
+
+blockquote .h12::before {
+  content: '"';
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+.second-box {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  font-family: 'Abril Fatface';
+  color: white;
+}
+
+.grey2 {
+  height: 150px;
+  background: grey;
+}
+
+.h13 {
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+blockquote .h13::before {
+  content: '"';
+}
+ 
+h5 {
+  margin-top: -10px;
+  font-family: 'Merriweather';
+}
+
+hr {
+  height: 3px;
+  background: black;
+  margin-top: 40px;
+}
