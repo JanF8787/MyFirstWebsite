@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold;
+}
+
+table {
+    width: 300px;
+}
+
+table, tr, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+td:hover {
+    background: orange;
+}
