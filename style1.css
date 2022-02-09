@@ -1,4 +1,4 @@
-p, .asteroid_b329_big {
+.asteroid_big, .asteroid_b329_big {
     color: blue;
 }
 
@@ -11,7 +11,7 @@ font-weight: bold;
     font-weight: bold;
 }
 
-p {
+.asteroid_big {
     background: yellow;
 }
 
